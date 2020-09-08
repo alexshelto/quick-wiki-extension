@@ -1,0 +1,12 @@
+{
+  "name": "quick wiki search",
+  "version": "1.0",
+  "description": "Build an Extension!",
+  "permissions": ["activeTab"],
+  "omnibox": { "keyword" : "!w" },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
