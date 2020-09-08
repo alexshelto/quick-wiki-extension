@@ -4,5 +4,5 @@ use command !w before phrase to search it directly in wikipedia
 > !w paper clip
 
 
-![todo-demo](https://github.com/alexshelto/quick-wiki-extension/blob/master/gifs/todo.gif)
+![todo-demo](https://github.com/alexshelto/quick-wiki-extension/blob/master/gifs/extension.gif)
 
