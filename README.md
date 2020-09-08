@@ -1,5 +1,5 @@
 # quick-wiki-extension
-### extension that will search whatever is in your chrome omnibox.     
+### extension opens a wikepedia page instantly.     
 ### use command !w before phrase to search it directly in wikipedia. 
 example:  
 ``` !w paper clip```
